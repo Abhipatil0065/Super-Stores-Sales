@@ -138,4 +138,4 @@ Data Cleaning & Transformation
 Data Modeling
 DAX Measures
 Data Visualization# Super-Stores-Sales
-![Dashboard priview](https://github.com/Abhipatil0065/Spotify-Analysis-Dashboard/blob/main/spotify%20data%20analysis.png)
+![Dashboard priview](https://github.com/Abhipatil0065/Super-Stores-Sales/blob/main/super%20store%20sales.png)
